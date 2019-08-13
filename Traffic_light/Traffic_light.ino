@@ -32,7 +32,7 @@ digitalWrite(3,1);
 digitalWrite(6,1);
 digitalWrite(9,1);
 digitalWrite(12,1);
-delay(2000);
+delay(1000);
 digitalWrite(3,0);
 digitalWrite(6,0);
 digitalWrite(9,0);
@@ -50,6 +50,6 @@ digitalWrite(3,1);
 digitalWrite(6,1);
 digitalWrite(9,1);
 digitalWrite(12,1);
-delay(2000);
+delay(1000);
 
 }
